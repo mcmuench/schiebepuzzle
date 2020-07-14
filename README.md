@@ -1,3 +1,3 @@
-# schiebepuzzle
+# Schiebepuzzle
 
-Simple tile-puzzle.
+Simple tile-puzzle written in Java.
